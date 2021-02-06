@@ -165,6 +165,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 511,Port Hedland,AU,78.8,scattered clouds,-20.3167,118.5667,The Esplanade Hotel
 518,Garissa,KE,89.37,scattered clouds,-0.4536,39.6401,Sharif Plaza Hotel
 536,Araouane,ML,85.55,overcast clouds,18.9048,-3.5265,
+538,Presidencia Roque Saenz Pena,AR,93.94,clear sky,-26.7852,-60.4388,Hotel Gualok
 539,Pekan,MY,75.2,few clouds,3.4836,103.3996,Pekan Budget Hotel
 540,Ayolas,PY,82.8,clear sky,-27.4,-56.9,Hotel Ayolas
 543,Bondo,CD,82.98,few clouds,3.8146,23.6866,
@@ -206,3 +207,4 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 657,San-Pedro,CI,83.08,scattered clouds,4.7485,-6.6363,Hotel Maria
 659,Valenca,BR,89.76,overcast clouds,-13.3703,-39.0731,Hotel Galeão
 663,Maningrida,AU,77.22,overcast clouds,-12.0667,134.2667,Dhukurrdji Lodge
+669,Biankouma,CI,91.38,broken clouds,7.7391,-7.6138,Hôtel Licolais
